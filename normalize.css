@@ -1,0 +1,45 @@
+.tab { 
+	text-indent:2em;
+}
+
+.tab2 { 
+	text-indent:4em;
+}
+
+p {
+	margin: 0.2em;
+	
+}
+
+.red {
+	color: #ff0000;
+}
+
+.green {
+	color: #94AC97;
+}
+
+.orange {
+	color: #d6851b;
+}
+
+.purple {
+	color: #a38dbf;
+}
+
+.blue {
+	color: #5DBCD2;
+}
+.docstring {
+	color: #8792a3;
+}
+
+
+
+body {
+	font-family: "Courier New";
+	background-color: #353C46;
+	color: #ffffff;
+	font-size: 0.9em;
+
+}
